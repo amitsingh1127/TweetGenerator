@@ -40,17 +40,3 @@ yarn-error.log*
 next-env.d.ts
 
 
-# Dependencies
-node_modules/
-
-# Next.js build output
-.next/
-
-# Local env files
-.env.local
-.env.development.local
-.env.production.local
-.env.test.local
-
-# IDE config
-.vscode/

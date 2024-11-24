@@ -75,6 +75,10 @@ export default function Home() {
               <option value="">Select Tone</option>
               <option value="Casual">Casual 😄</option>
               <option value="Formal">Formal 🧐</option>
+              <option value="Happy">Happy 😃</option>
+              <option value="Excited">Excited 🤩</option>
+              <option value="Angry">Angry 😡</option>
+              <option value="Sad">Sad ☹️</option>
               <option value="Inspirational">Inspirational 🌟</option>
             </select>
           </div>
